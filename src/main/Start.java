@@ -3,13 +3,11 @@ import mpi.MPI;
 import solver.ParallelSolver;
 
 /**
- * 
  * Main Klasse für den parallelen NxM Puzzle Solver. Implementiert mit MPJ.
  * 
  * SamplePuzzles: http://mypuzzle.org/sliding
  * 
  * @author michael koch
- *
  */
 
 public class Start {
